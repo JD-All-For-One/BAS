@@ -1,0 +1,282 @@
+[
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe3",
+            "IsEnabled": true,
+            "MinimumFontSize": 1006783548
+        },
+        "Id": "4404d06b-10d6-52ee-b103-d8bd0af06d2e",
+        "FontSize": 107249954,
+        "Orientation": "Orientati1",
+        "PaperSize": "PaperSize1",
+        "BorderSize": 480183771,
+        "MarginSize": 71819269,
+        "FontName": "FontName1"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe1",
+            "IsEnabled": false,
+            "MinimumFontSize": 1592732435
+        },
+        "Id": "54427416-3887-51be-8bc1-a69b8bc7e5ec",
+        "FontSize": 199057790,
+        "Orientation": "Orientati2",
+        "PaperSize": "PaperSize2",
+        "BorderSize": 562564249,
+        "MarginSize": 936186110,
+        "FontName": "FontName2"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorR12",
+            "IsEnabled": true,
+            "MinimumFontSize": 1830382906
+        },
+        "Id": "f2b64518-6531-576f-99b9-605902a91f4c",
+        "FontSize": 2112066998,
+        "Orientation": "Orientati3",
+        "PaperSize": "PaperSize3",
+        "BorderSize": 1246382140,
+        "MarginSize": 2134497179,
+        "FontName": "FontName3"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorR17",
+            "IsEnabled": false,
+            "MinimumFontSize": 1560481291
+        },
+        "Id": "1ce4c368-92a9-5295-848b-72759d7e14e5",
+        "FontSize": 755195844,
+        "Orientation": "Orientati4",
+        "PaperSize": "PaperSize4",
+        "BorderSize": 1915590233,
+        "MarginSize": 273189732,
+        "FontName": "FontName4"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe6",
+            "IsEnabled": false,
+            "MinimumFontSize": 1626160865
+        },
+        "Id": "3650dce3-1158-5c9c-a064-dc495e9ef96c",
+        "FontSize": 2076083092,
+        "Orientation": "Orientati5",
+        "PaperSize": "PaperSize5",
+        "BorderSize": 303166495,
+        "MarginSize": 1916396790,
+        "FontName": "FontName5"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe2",
+            "IsEnabled": true,
+            "MinimumFontSize": 1269110520
+        },
+        "Id": "a98dce2d-cb2c-5232-8421-3cf79bff200d",
+        "FontSize": 626580864,
+        "Orientation": "Orientati6",
+        "PaperSize": "PaperSize6",
+        "BorderSize": 2063111331,
+        "MarginSize": 250157999,
+        "FontName": "FontName6"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe9",
+            "IsEnabled": false,
+            "MinimumFontSize": 245603862
+        },
+        "Id": "4e129b15-2c4b-51bd-a461-f18678bcd09a",
+        "FontSize": 241088317,
+        "Orientation": "Orientati7",
+        "PaperSize": "PaperSize7",
+        "BorderSize": 2072847194,
+        "MarginSize": 162677587,
+        "FontName": "FontName7"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe3",
+            "IsEnabled": true,
+            "MinimumFontSize": 1006783548
+        },
+        "Id": "2b0fb9bf-2c7d-5fa7-bc7b-aa2af9b29c80",
+        "FontSize": 198424137,
+        "Orientation": "Orientati8",
+        "PaperSize": "PaperSize8",
+        "BorderSize": 1461108062,
+        "MarginSize": 98033744,
+        "FontName": "FontName8"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorR16",
+            "IsEnabled": false,
+            "MinimumFontSize": 1512964724
+        },
+        "Id": "c83632cb-45b7-51e9-a670-89a59fd024bf",
+        "FontSize": 553474172,
+        "Orientation": "Orientati9",
+        "PaperSize": "PaperSize9",
+        "BorderSize": 1756144212,
+        "MarginSize": 554554953,
+        "FontName": "FontName9"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorR12",
+            "IsEnabled": true,
+            "MinimumFontSize": 1830382906
+        },
+        "Id": "fdaf668f-fb23-5bdb-8dee-c6c496bb869f",
+        "FontSize": 391822112,
+        "Orientation": "Orientat10",
+        "PaperSize": "PaperSiz10",
+        "BorderSize": 517050354,
+        "MarginSize": 1561104227,
+        "FontName": "FontName10"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe9",
+            "IsEnabled": false,
+            "MinimumFontSize": 245603862
+        },
+        "Id": "703ee336-bb94-538a-afa0-f28f906f37eb",
+        "FontSize": 2131795621,
+        "Orientation": "Orientat11",
+        "PaperSize": "PaperSiz11",
+        "BorderSize": 1670501318,
+        "MarginSize": 984334744,
+        "FontName": "FontName11"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorR13",
+            "IsEnabled": false,
+            "MinimumFontSize": 872004699
+        },
+        "Id": "58d3443c-b376-52b4-96db-d3db1c2b5e66",
+        "FontSize": 1005320828,
+        "Orientation": "Orientat12",
+        "PaperSize": "PaperSiz12",
+        "BorderSize": 1972364333,
+        "MarginSize": 843347586,
+        "FontName": "FontName12"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe6",
+            "IsEnabled": false,
+            "MinimumFontSize": 1626160865
+        },
+        "Id": "22e25849-6f9c-5c8e-b54e-ba3947ca11b6",
+        "FontSize": 1343691216,
+        "Orientation": "Orientat13",
+        "PaperSize": "PaperSiz13",
+        "BorderSize": 1509628110,
+        "MarginSize": 1891444799,
+        "FontName": "FontName13"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe4",
+            "IsEnabled": true,
+            "MinimumFontSize": 405508573
+        },
+        "Id": "3d1dad72-c039-55d2-92b5-8a590cf18d84",
+        "FontSize": 1283123271,
+        "Orientation": "Orientat14",
+        "PaperSize": "PaperSiz14",
+        "BorderSize": 1887172698,
+        "MarginSize": 1514214629,
+        "FontName": "FontName14"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorR14",
+            "IsEnabled": true,
+            "MinimumFontSize": 280324753
+        },
+        "Id": "31b7193f-c003-5d44-b8aa-86d7feb0c8cc",
+        "FontSize": 1859880779,
+        "Orientation": "Orientat15",
+        "PaperSize": "PaperSiz15",
+        "BorderSize": 1200543731,
+        "MarginSize": 1850273233,
+        "FontName": "FontName15"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe9",
+            "IsEnabled": false,
+            "MinimumFontSize": 245603862
+        },
+        "Id": "c01d5967-63a0-5bc5-9790-ab1eb7066413",
+        "FontSize": 800071878,
+        "Orientation": "Orientat16",
+        "PaperSize": "PaperSiz16",
+        "BorderSize": 1124681321,
+        "MarginSize": 1420408362,
+        "FontName": "FontName16"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe4",
+            "IsEnabled": true,
+            "MinimumFontSize": 405508573
+        },
+        "Id": "748032c6-d029-542f-86b0-de2ea687e6c3",
+        "FontSize": 812779807,
+        "Orientation": "Orientat17",
+        "PaperSize": "PaperSiz17",
+        "BorderSize": 1018080690,
+        "MarginSize": 33536757,
+        "FontName": "FontName17"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorRe6",
+            "IsEnabled": false,
+            "MinimumFontSize": 1626160865
+        },
+        "Id": "bc754ab5-458d-568b-aacc-7afe6b474f9a",
+        "FontSize": 1356328495,
+        "Orientation": "Orientat18",
+        "PaperSize": "PaperSiz18",
+        "BorderSize": 1883330084,
+        "MarginSize": 1238317799,
+        "FontName": "FontName18"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorR14",
+            "IsEnabled": true,
+            "MinimumFontSize": 280324753
+        },
+        "Id": "f22f3122-9a9c-5495-bf3f-d4eded00bff2",
+        "FontSize": 361761789,
+        "Orientation": "Orientat19",
+        "PaperSize": "PaperSiz19",
+        "BorderSize": 791069119,
+        "MarginSize": 22561874,
+        "FontName": "FontName19"
+    },
+    {
+        "FitToPage": {
+            "ErrorRecoveryBehavior": "ErrorR18",
+            "IsEnabled": false,
+            "MinimumFontSize": 415718433
+        },
+        "Id": "d15904d9-08ea-5d3e-8f01-d16c24ac75be",
+        "FontSize": 1089216509,
+        "Orientation": "Orientat20",
+        "PaperSize": "PaperSiz20",
+        "BorderSize": 720190114,
+        "MarginSize": 1856154697,
+        "FontName": "FontName20"
+    }
+]

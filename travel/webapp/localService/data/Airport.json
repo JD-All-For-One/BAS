@@ -1,0 +1,122 @@
+[
+    {
+        "AirportID": "tnR",
+        "Name": "Name1",
+        "City": "City1",
+        "CountryCode": "Co1"
+    },
+    {
+        "AirportID": "SMo",
+        "Name": "Name2",
+        "City": "City2",
+        "CountryCode": "Co2"
+    },
+    {
+        "AirportID": "fGM",
+        "Name": "Name3",
+        "City": "City3",
+        "CountryCode": "Co3"
+    },
+    {
+        "AirportID": "WuI",
+        "Name": "Name4",
+        "City": "City4",
+        "CountryCode": "Co4"
+    },
+    {
+        "AirportID": "OhV",
+        "Name": "Name5",
+        "City": "City5",
+        "CountryCode": "Co5"
+    },
+    {
+        "AirportID": "wBP",
+        "Name": "Name6",
+        "City": "City6",
+        "CountryCode": "Co6"
+    },
+    {
+        "AirportID": "Nmg",
+        "Name": "Name7",
+        "City": "City7",
+        "CountryCode": "Co7"
+    },
+    {
+        "AirportID": "hgs",
+        "Name": "Name8",
+        "City": "City8",
+        "CountryCode": "Co8"
+    },
+    {
+        "AirportID": "plz",
+        "Name": "Name9",
+        "City": "City9",
+        "CountryCode": "Co9"
+    },
+    {
+        "AirportID": "iJt",
+        "Name": "Name10",
+        "City": "City10",
+        "CountryCode": "C10"
+    },
+    {
+        "AirportID": "Rta",
+        "Name": "Name11",
+        "City": "City11",
+        "CountryCode": "C11"
+    },
+    {
+        "AirportID": "HYo",
+        "Name": "Name12",
+        "City": "City12",
+        "CountryCode": "C12"
+    },
+    {
+        "AirportID": "HNz",
+        "Name": "Name13",
+        "City": "City13",
+        "CountryCode": "C13"
+    },
+    {
+        "AirportID": "fVl",
+        "Name": "Name14",
+        "City": "City14",
+        "CountryCode": "C14"
+    },
+    {
+        "AirportID": "RWC",
+        "Name": "Name15",
+        "City": "City15",
+        "CountryCode": "C15"
+    },
+    {
+        "AirportID": "vna",
+        "Name": "Name16",
+        "City": "City16",
+        "CountryCode": "C16"
+    },
+    {
+        "AirportID": "Vwd",
+        "Name": "Name17",
+        "City": "City17",
+        "CountryCode": "C17"
+    },
+    {
+        "AirportID": "zhb",
+        "Name": "Name18",
+        "City": "City18",
+        "CountryCode": "C18"
+    },
+    {
+        "AirportID": "UCC",
+        "Name": "Name19",
+        "City": "City19",
+        "CountryCode": "C19"
+    },
+    {
+        "AirportID": "fkz",
+        "Name": "Name20",
+        "City": "City20",
+        "CountryCode": "C20"
+    }
+]
