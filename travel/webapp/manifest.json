@@ -124,46 +124,6 @@
             "config": {},
             "routes": [],
             "targets": {}
-        },
-        "extends": {
-            "extensions": {
-                "sap.ui.controllerExtensions": {
-                    "sap.suite.ui.generic.template.ObjectPage.view.Details": {
-                        "controllerName": "travel.ext.controller.ObjectPageExt",
-                        "sap.ui.generic.app": {
-                            "TravelProcessor": {
-                                "EntitySet": "TravelProcessor",
-                                "Header": {
-                                    "Actions": {
-                                        "Open": {
-                                            "id": "OpenButton",
-                                            "text": "Open",
-                                            "press": "onOpen",
-                                            "requiresSelection": false
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    },
-                    "sap.suite.ui.generic.template.ListReport.view.ListReport": {
-                        "controllerName": "travel.ext.controller.ListReportExt",
-                        "sap.ui.generic.app": {
-                            "TravelProcessor": {
-                                "EntitySet": "TravelProcessor",
-                                "Actions": {
-                                    "Close": {
-                                        "id": "CloseButton",
-                                        "text": "Close",
-                                        "press": "onClose",
-                                        "requiresSelection": false
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
         }
     },
     "sap.ui.generic.app": {
