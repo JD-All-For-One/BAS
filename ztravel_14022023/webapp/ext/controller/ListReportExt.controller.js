@@ -4,7 +4,7 @@ function (){
     return {
         onOpen: function(oEvent) {
             debugger;
-            alert('onOpen');
+            alert('onOpenGit');
             
         }
     };
