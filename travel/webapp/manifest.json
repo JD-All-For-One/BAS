@@ -124,28 +124,6 @@
             "config": {},
             "routes": [],
             "targets": {}
-        },
-        "extends": {
-            "extensions": {
-                "sap.ui.controllerExtensions": {
-                    "sap.suite.ui.generic.template.ListReport.view.ListReport": {
-                        "controllerName": "travel.ext.controller.ListReportExt",
-                        "sap.ui.generic.app": {
-                            "TravelProcessor": {
-                                "EntitySet": "TravelProcessor",
-                                "Actions": {
-                                    "test": {
-                                        "id": "testButton",
-                                        "text": "test",
-                                        "press": "onTest",
-                                        "requiresSelection": true
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
         }
     },
     "sap.ui.generic.app": {
