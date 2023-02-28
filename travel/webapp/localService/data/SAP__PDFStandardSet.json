@@ -98,5 +98,205 @@
         "Id": "62980e0e-3637-5b63-9a6b-633024ea5adf",
         "UsePDFAConformance": true,
         "DoEnableAccessibility": true
+    },
+    {
+        "Id": "ae1659c2-effe-5fcc-b578-af4e99f1c9d0",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "f9eda10a-83de-5579-a7e8-e247b2be2d3e",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "6d32184f-c2de-5a1f-afb2-59097025dc1e",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "60f7be67-0e2c-57cd-a2d1-2d0141c6fae8",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "e67b572e-c1c9-5ae8-a8e0-4e3ad0a7c792",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "83b7a473-00c8-5265-8eb8-781b2c38419d",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "d80e6671-491d-5701-9d00-fe20793cb7e4",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "030caad5-6969-5384-b6af-25a535a36ed2",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "2923204b-8dae-5d75-bd86-631e15a44c07",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "fd0bcf72-4ffa-554f-a087-b100221fe40c",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "2bd9c205-d89b-50a1-bfab-c902b32426a8",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "0db71efb-9b02-5b1d-96e5-242ffc1c173d",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "60d18d02-f222-57f1-a3d4-fc0aab88fff8",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "b41cd096-de28-5b90-a9e7-235e7212a7cd",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "7f6497c3-b69b-5295-a2b6-296ef8c10d7f",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "3a407296-bfda-50dc-92c2-46ae409a2409",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "258b90a5-210f-5b48-999c-c2951e9c2055",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "87565583-be1a-5ea2-8bbe-e618998c4ccb",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "bbbb4acd-99a0-573b-b861-9e9ec26fa40e",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "9bc3b8e4-3937-5ae6-b3ce-a52f7b6606d9",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "5181111c-d7e5-55fa-b737-119cf6f3ffc1",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "0e5014b8-5be0-51ae-9a89-f18e1de0ead4",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "e60a9496-4066-510a-a309-0332a86bc970",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "4d377845-71fa-5a6b-acde-6fed5e46acf1",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "76d15d09-edb6-5c11-9bad-c316824d0ae6",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "571d0d4f-ac37-5335-88d3-1f0c11b58c91",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "2b1e6e6a-5ad1-50dd-b61e-0d66d46437f2",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "3a108076-12f4-5d8e-8de4-82c3b1ac671e",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "d4fb943d-22c4-592c-9264-c6db6568b7ba",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "f78c7bf8-6e7c-5f45-97cd-8d9b23d0dbd3",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "5479a105-8353-5b54-a7d6-8e9890d19942",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "4cf6f50d-0a5d-5d6c-9053-9759c5c611cb",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "bedaed0b-3769-579e-bc15-2e3c9ae48980",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "31052527-8999-53ef-95fa-c8fd7b72f97e",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "ea5b8256-7ae4-5d69-8197-4b2b72682080",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "44f79b3e-bc52-5f80-a372-224bdd3e1ff3",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "aad86f78-f7ec-53ae-a227-cc0538f69d5e",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "d9b2063e-b52e-57b6-9c4e-250304b7e19c",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": true
+    },
+    {
+        "Id": "382a697a-8219-5e1c-87c5-707bd02f5eca",
+        "UsePDFAConformance": false,
+        "DoEnableAccessibility": false
+    },
+    {
+        "Id": "300658a8-8c6f-598f-baf0-65a815052c32",
+        "UsePDFAConformance": true,
+        "DoEnableAccessibility": false
     }
 ]

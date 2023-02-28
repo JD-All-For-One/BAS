@@ -138,5 +138,285 @@
         "ExternalCode": "E20",
         "Text": "Text20",
         "DecimalPlaces": 22104
+    },
+    {
+        "UnitCode": "AWj",
+        "ISOCode": "I21",
+        "ExternalCode": "E21",
+        "Text": "Text21",
+        "DecimalPlaces": 29510
+    },
+    {
+        "UnitCode": "QEB",
+        "ISOCode": "I22",
+        "ExternalCode": "E22",
+        "Text": "Text22",
+        "DecimalPlaces": 18564
+    },
+    {
+        "UnitCode": "yDl",
+        "ISOCode": "I23",
+        "ExternalCode": "E23",
+        "Text": "Text23",
+        "DecimalPlaces": 213
+    },
+    {
+        "UnitCode": "Pyp",
+        "ISOCode": "I24",
+        "ExternalCode": "E24",
+        "Text": "Text24",
+        "DecimalPlaces": 27924
+    },
+    {
+        "UnitCode": "yKH",
+        "ISOCode": "I25",
+        "ExternalCode": "E25",
+        "Text": "Text25",
+        "DecimalPlaces": 1776
+    },
+    {
+        "UnitCode": "TPq",
+        "ISOCode": "I26",
+        "ExternalCode": "E26",
+        "Text": "Text26",
+        "DecimalPlaces": 27643
+    },
+    {
+        "UnitCode": "AOa",
+        "ISOCode": "I27",
+        "ExternalCode": "E27",
+        "Text": "Text27",
+        "DecimalPlaces": 30156
+    },
+    {
+        "UnitCode": "NQe",
+        "ISOCode": "I28",
+        "ExternalCode": "E28",
+        "Text": "Text28",
+        "DecimalPlaces": 4073
+    },
+    {
+        "UnitCode": "ARn",
+        "ISOCode": "I29",
+        "ExternalCode": "E29",
+        "Text": "Text29",
+        "DecimalPlaces": 5431
+    },
+    {
+        "UnitCode": "ZUY",
+        "ISOCode": "I30",
+        "ExternalCode": "E30",
+        "Text": "Text30",
+        "DecimalPlaces": 7246
+    },
+    {
+        "UnitCode": "HXO",
+        "ISOCode": "I31",
+        "ExternalCode": "E31",
+        "Text": "Text31",
+        "DecimalPlaces": 1705
+    },
+    {
+        "UnitCode": "SWW",
+        "ISOCode": "I32",
+        "ExternalCode": "E32",
+        "Text": "Text32",
+        "DecimalPlaces": 29656
+    },
+    {
+        "UnitCode": "sGH",
+        "ISOCode": "I33",
+        "ExternalCode": "E33",
+        "Text": "Text33",
+        "DecimalPlaces": 27615
+    },
+    {
+        "UnitCode": "rjt",
+        "ISOCode": "I34",
+        "ExternalCode": "E34",
+        "Text": "Text34",
+        "DecimalPlaces": 29885
+    },
+    {
+        "UnitCode": "NKi",
+        "ISOCode": "I35",
+        "ExternalCode": "E35",
+        "Text": "Text35",
+        "DecimalPlaces": 1621
+    },
+    {
+        "UnitCode": "UjK",
+        "ISOCode": "I36",
+        "ExternalCode": "E36",
+        "Text": "Text36",
+        "DecimalPlaces": 30533
+    },
+    {
+        "UnitCode": "cCz",
+        "ISOCode": "I37",
+        "ExternalCode": "E37",
+        "Text": "Text37",
+        "DecimalPlaces": 5264
+    },
+    {
+        "UnitCode": "mrC",
+        "ISOCode": "I38",
+        "ExternalCode": "E38",
+        "Text": "Text38",
+        "DecimalPlaces": 27814
+    },
+    {
+        "UnitCode": "EAD",
+        "ISOCode": "I39",
+        "ExternalCode": "E39",
+        "Text": "Text39",
+        "DecimalPlaces": 317
+    },
+    {
+        "UnitCode": "hRr",
+        "ISOCode": "I40",
+        "ExternalCode": "E40",
+        "Text": "Text40",
+        "DecimalPlaces": 565
+    },
+    {
+        "UnitCode": "lev",
+        "ISOCode": "I41",
+        "ExternalCode": "E41",
+        "Text": "Text41",
+        "DecimalPlaces": 3845
+    },
+    {
+        "UnitCode": "jGD",
+        "ISOCode": "I42",
+        "ExternalCode": "E42",
+        "Text": "Text42",
+        "DecimalPlaces": 25013
+    },
+    {
+        "UnitCode": "uZF",
+        "ISOCode": "I43",
+        "ExternalCode": "E43",
+        "Text": "Text43",
+        "DecimalPlaces": 24964
+    },
+    {
+        "UnitCode": "eix",
+        "ISOCode": "I44",
+        "ExternalCode": "E44",
+        "Text": "Text44",
+        "DecimalPlaces": 31577
+    },
+    {
+        "UnitCode": "gIp",
+        "ISOCode": "I45",
+        "ExternalCode": "E45",
+        "Text": "Text45",
+        "DecimalPlaces": 11041
+    },
+    {
+        "UnitCode": "ETG",
+        "ISOCode": "I46",
+        "ExternalCode": "E46",
+        "Text": "Text46",
+        "DecimalPlaces": 7261
+    },
+    {
+        "UnitCode": "bXD",
+        "ISOCode": "I47",
+        "ExternalCode": "E47",
+        "Text": "Text47",
+        "DecimalPlaces": 25752
+    },
+    {
+        "UnitCode": "bVa",
+        "ISOCode": "I48",
+        "ExternalCode": "E48",
+        "Text": "Text48",
+        "DecimalPlaces": 23758
+    },
+    {
+        "UnitCode": "pAB",
+        "ISOCode": "I49",
+        "ExternalCode": "E49",
+        "Text": "Text49",
+        "DecimalPlaces": 8648
+    },
+    {
+        "UnitCode": "sKv",
+        "ISOCode": "I50",
+        "ExternalCode": "E50",
+        "Text": "Text50",
+        "DecimalPlaces": 32477
+    },
+    {
+        "UnitCode": "LpB",
+        "ISOCode": "I51",
+        "ExternalCode": "E51",
+        "Text": "Text51",
+        "DecimalPlaces": 19769
+    },
+    {
+        "UnitCode": "JIJ",
+        "ISOCode": "I52",
+        "ExternalCode": "E52",
+        "Text": "Text52",
+        "DecimalPlaces": 4025
+    },
+    {
+        "UnitCode": "pob",
+        "ISOCode": "I53",
+        "ExternalCode": "E53",
+        "Text": "Text53",
+        "DecimalPlaces": 11880
+    },
+    {
+        "UnitCode": "Qui",
+        "ISOCode": "I54",
+        "ExternalCode": "E54",
+        "Text": "Text54",
+        "DecimalPlaces": 27163
+    },
+    {
+        "UnitCode": "zjY",
+        "ISOCode": "I55",
+        "ExternalCode": "E55",
+        "Text": "Text55",
+        "DecimalPlaces": 24917
+    },
+    {
+        "UnitCode": "idZ",
+        "ISOCode": "I56",
+        "ExternalCode": "E56",
+        "Text": "Text56",
+        "DecimalPlaces": 10356
+    },
+    {
+        "UnitCode": "ens",
+        "ISOCode": "I57",
+        "ExternalCode": "E57",
+        "Text": "Text57",
+        "DecimalPlaces": 19059
+    },
+    {
+        "UnitCode": "LkW",
+        "ISOCode": "I58",
+        "ExternalCode": "E58",
+        "Text": "Text58",
+        "DecimalPlaces": 10871
+    },
+    {
+        "UnitCode": "ZRl",
+        "ISOCode": "I59",
+        "ExternalCode": "E59",
+        "Text": "Text59",
+        "DecimalPlaces": 28739
+    },
+    {
+        "UnitCode": "FGD",
+        "ISOCode": "I60",
+        "ExternalCode": "E60",
+        "Text": "Text60",
+        "DecimalPlaces": 30106
     }
 ]
