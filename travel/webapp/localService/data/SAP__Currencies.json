@@ -358,5 +358,845 @@
         "ISOCode": "I60",
         "Text": "Text60",
         "DecimalPlaces": 153
+    },
+    {
+        "CurrencyCode": "xLfCz",
+        "ISOCode": "I61",
+        "Text": "Text61",
+        "DecimalPlaces": 138
+    },
+    {
+        "CurrencyCode": "ewdAr",
+        "ISOCode": "I62",
+        "Text": "Text62",
+        "DecimalPlaces": 138
+    },
+    {
+        "CurrencyCode": "RWuGV",
+        "ISOCode": "I63",
+        "Text": "Text63",
+        "DecimalPlaces": 6
+    },
+    {
+        "CurrencyCode": "pAQXJ",
+        "ISOCode": "I64",
+        "Text": "Text64",
+        "DecimalPlaces": 53
+    },
+    {
+        "CurrencyCode": "jQjzG",
+        "ISOCode": "I65",
+        "Text": "Text65",
+        "DecimalPlaces": 59
+    },
+    {
+        "CurrencyCode": "UFTVp",
+        "ISOCode": "I66",
+        "Text": "Text66",
+        "DecimalPlaces": 6
+    },
+    {
+        "CurrencyCode": "xEfJB",
+        "ISOCode": "I67",
+        "Text": "Text67",
+        "DecimalPlaces": 87
+    },
+    {
+        "CurrencyCode": "cpnoY",
+        "ISOCode": "I68",
+        "Text": "Text68",
+        "DecimalPlaces": 106
+    },
+    {
+        "CurrencyCode": "ihBpF",
+        "ISOCode": "I69",
+        "Text": "Text69",
+        "DecimalPlaces": 36
+    },
+    {
+        "CurrencyCode": "Onrzx",
+        "ISOCode": "I70",
+        "Text": "Text70",
+        "DecimalPlaces": 119
+    },
+    {
+        "CurrencyCode": "LpnWM",
+        "ISOCode": "I71",
+        "Text": "Text71",
+        "DecimalPlaces": 49
+    },
+    {
+        "CurrencyCode": "KcRys",
+        "ISOCode": "I72",
+        "Text": "Text72",
+        "DecimalPlaces": 219
+    },
+    {
+        "CurrencyCode": "hlrvz",
+        "ISOCode": "I73",
+        "Text": "Text73",
+        "DecimalPlaces": 99
+    },
+    {
+        "CurrencyCode": "yLauS",
+        "ISOCode": "I74",
+        "Text": "Text74",
+        "DecimalPlaces": 57
+    },
+    {
+        "CurrencyCode": "NSxkZ",
+        "ISOCode": "I75",
+        "Text": "Text75",
+        "DecimalPlaces": 33
+    },
+    {
+        "CurrencyCode": "SHzCc",
+        "ISOCode": "I76",
+        "Text": "Text76",
+        "DecimalPlaces": 153
+    },
+    {
+        "CurrencyCode": "QgOQN",
+        "ISOCode": "I77",
+        "Text": "Text77",
+        "DecimalPlaces": 116
+    },
+    {
+        "CurrencyCode": "KgqOo",
+        "ISOCode": "I78",
+        "Text": "Text78",
+        "DecimalPlaces": 202
+    },
+    {
+        "CurrencyCode": "EmWlM",
+        "ISOCode": "I79",
+        "Text": "Text79",
+        "DecimalPlaces": 85
+    },
+    {
+        "CurrencyCode": "ZBZeP",
+        "ISOCode": "I80",
+        "Text": "Text80",
+        "DecimalPlaces": 142
+    },
+    {
+        "CurrencyCode": "XDmio",
+        "ISOCode": "I81",
+        "Text": "Text81",
+        "DecimalPlaces": 230
+    },
+    {
+        "CurrencyCode": "EPNOn",
+        "ISOCode": "I82",
+        "Text": "Text82",
+        "DecimalPlaces": 194
+    },
+    {
+        "CurrencyCode": "LkPuu",
+        "ISOCode": "I83",
+        "Text": "Text83",
+        "DecimalPlaces": 32
+    },
+    {
+        "CurrencyCode": "Kmkew",
+        "ISOCode": "I84",
+        "Text": "Text84",
+        "DecimalPlaces": 125
+    },
+    {
+        "CurrencyCode": "QSqgz",
+        "ISOCode": "I85",
+        "Text": "Text85",
+        "DecimalPlaces": 1
+    },
+    {
+        "CurrencyCode": "nWAZr",
+        "ISOCode": "I86",
+        "Text": "Text86",
+        "DecimalPlaces": 212
+    },
+    {
+        "CurrencyCode": "cMgFO",
+        "ISOCode": "I87",
+        "Text": "Text87",
+        "DecimalPlaces": 119
+    },
+    {
+        "CurrencyCode": "jufVe",
+        "ISOCode": "I88",
+        "Text": "Text88",
+        "DecimalPlaces": 244
+    },
+    {
+        "CurrencyCode": "zcoov",
+        "ISOCode": "I89",
+        "Text": "Text89",
+        "DecimalPlaces": 176
+    },
+    {
+        "CurrencyCode": "LSmQZ",
+        "ISOCode": "I90",
+        "Text": "Text90",
+        "DecimalPlaces": 51
+    },
+    {
+        "CurrencyCode": "MOWoF",
+        "ISOCode": "I91",
+        "Text": "Text91",
+        "DecimalPlaces": 40
+    },
+    {
+        "CurrencyCode": "XUWzX",
+        "ISOCode": "I92",
+        "Text": "Text92",
+        "DecimalPlaces": 36
+    },
+    {
+        "CurrencyCode": "HSppy",
+        "ISOCode": "I93",
+        "Text": "Text93",
+        "DecimalPlaces": 6
+    },
+    {
+        "CurrencyCode": "tkHjb",
+        "ISOCode": "I94",
+        "Text": "Text94",
+        "DecimalPlaces": 47
+    },
+    {
+        "CurrencyCode": "WhGkN",
+        "ISOCode": "I95",
+        "Text": "Text95",
+        "DecimalPlaces": 125
+    },
+    {
+        "CurrencyCode": "KpFTN",
+        "ISOCode": "I96",
+        "Text": "Text96",
+        "DecimalPlaces": 55
+    },
+    {
+        "CurrencyCode": "Ionua",
+        "ISOCode": "I97",
+        "Text": "Text97",
+        "DecimalPlaces": 23
+    },
+    {
+        "CurrencyCode": "TDGkc",
+        "ISOCode": "I98",
+        "Text": "Text98",
+        "DecimalPlaces": 98
+    },
+    {
+        "CurrencyCode": "lLhxA",
+        "ISOCode": "I99",
+        "Text": "Text99",
+        "DecimalPlaces": 31
+    },
+    {
+        "CurrencyCode": "ZHZkS",
+        "ISOCode": "100",
+        "Text": "Text100",
+        "DecimalPlaces": 115
+    },
+    {
+        "CurrencyCode": "WogPs",
+        "ISOCode": "101",
+        "Text": "Text101",
+        "DecimalPlaces": 155
+    },
+    {
+        "CurrencyCode": "UTALr",
+        "ISOCode": "102",
+        "Text": "Text102",
+        "DecimalPlaces": 36
+    },
+    {
+        "CurrencyCode": "fLwCK",
+        "ISOCode": "103",
+        "Text": "Text103",
+        "DecimalPlaces": 155
+    },
+    {
+        "CurrencyCode": "tPMsp",
+        "ISOCode": "104",
+        "Text": "Text104",
+        "DecimalPlaces": 179
+    },
+    {
+        "CurrencyCode": "yaCZN",
+        "ISOCode": "105",
+        "Text": "Text105",
+        "DecimalPlaces": 94
+    },
+    {
+        "CurrencyCode": "hLPyE",
+        "ISOCode": "106",
+        "Text": "Text106",
+        "DecimalPlaces": 120
+    },
+    {
+        "CurrencyCode": "mAmvz",
+        "ISOCode": "107",
+        "Text": "Text107",
+        "DecimalPlaces": 176
+    },
+    {
+        "CurrencyCode": "LglYW",
+        "ISOCode": "108",
+        "Text": "Text108",
+        "DecimalPlaces": 75
+    },
+    {
+        "CurrencyCode": "mjTmp",
+        "ISOCode": "109",
+        "Text": "Text109",
+        "DecimalPlaces": 238
+    },
+    {
+        "CurrencyCode": "yQzBN",
+        "ISOCode": "110",
+        "Text": "Text110",
+        "DecimalPlaces": 119
+    },
+    {
+        "CurrencyCode": "WccUH",
+        "ISOCode": "111",
+        "Text": "Text111",
+        "DecimalPlaces": 40
+    },
+    {
+        "CurrencyCode": "iAPcC",
+        "ISOCode": "112",
+        "Text": "Text112",
+        "DecimalPlaces": 39
+    },
+    {
+        "CurrencyCode": "HsPAa",
+        "ISOCode": "113",
+        "Text": "Text113",
+        "DecimalPlaces": 205
+    },
+    {
+        "CurrencyCode": "PNExX",
+        "ISOCode": "114",
+        "Text": "Text114",
+        "DecimalPlaces": 3
+    },
+    {
+        "CurrencyCode": "bjaTg",
+        "ISOCode": "115",
+        "Text": "Text115",
+        "DecimalPlaces": 106
+    },
+    {
+        "CurrencyCode": "nigUo",
+        "ISOCode": "116",
+        "Text": "Text116",
+        "DecimalPlaces": 62
+    },
+    {
+        "CurrencyCode": "YEtio",
+        "ISOCode": "117",
+        "Text": "Text117",
+        "DecimalPlaces": 74
+    },
+    {
+        "CurrencyCode": "aCXeV",
+        "ISOCode": "118",
+        "Text": "Text118",
+        "DecimalPlaces": 145
+    },
+    {
+        "CurrencyCode": "LMXuS",
+        "ISOCode": "119",
+        "Text": "Text119",
+        "DecimalPlaces": 152
+    },
+    {
+        "CurrencyCode": "stROJ",
+        "ISOCode": "120",
+        "Text": "Text120",
+        "DecimalPlaces": 28
+    },
+    {
+        "CurrencyCode": "WRGCN",
+        "ISOCode": "121",
+        "Text": "Text121",
+        "DecimalPlaces": 134
+    },
+    {
+        "CurrencyCode": "GDBqT",
+        "ISOCode": "122",
+        "Text": "Text122",
+        "DecimalPlaces": 243
+    },
+    {
+        "CurrencyCode": "lBDcY",
+        "ISOCode": "123",
+        "Text": "Text123",
+        "DecimalPlaces": 242
+    },
+    {
+        "CurrencyCode": "BUSXl",
+        "ISOCode": "124",
+        "Text": "Text124",
+        "DecimalPlaces": 16
+    },
+    {
+        "CurrencyCode": "EodHQ",
+        "ISOCode": "125",
+        "Text": "Text125",
+        "DecimalPlaces": 197
+    },
+    {
+        "CurrencyCode": "QRBrH",
+        "ISOCode": "126",
+        "Text": "Text126",
+        "DecimalPlaces": 215
+    },
+    {
+        "CurrencyCode": "dUgRU",
+        "ISOCode": "127",
+        "Text": "Text127",
+        "DecimalPlaces": 187
+    },
+    {
+        "CurrencyCode": "JsWBR",
+        "ISOCode": "128",
+        "Text": "Text128",
+        "DecimalPlaces": 33
+    },
+    {
+        "CurrencyCode": "ZwDmr",
+        "ISOCode": "129",
+        "Text": "Text129",
+        "DecimalPlaces": 2
+    },
+    {
+        "CurrencyCode": "zKOHt",
+        "ISOCode": "130",
+        "Text": "Text130",
+        "DecimalPlaces": 240
+    },
+    {
+        "CurrencyCode": "RZbSE",
+        "ISOCode": "131",
+        "Text": "Text131",
+        "DecimalPlaces": 92
+    },
+    {
+        "CurrencyCode": "syLrh",
+        "ISOCode": "132",
+        "Text": "Text132",
+        "DecimalPlaces": 136
+    },
+    {
+        "CurrencyCode": "mkkTK",
+        "ISOCode": "133",
+        "Text": "Text133",
+        "DecimalPlaces": 159
+    },
+    {
+        "CurrencyCode": "BySQo",
+        "ISOCode": "134",
+        "Text": "Text134",
+        "DecimalPlaces": 152
+    },
+    {
+        "CurrencyCode": "UQMSE",
+        "ISOCode": "135",
+        "Text": "Text135",
+        "DecimalPlaces": 117
+    },
+    {
+        "CurrencyCode": "hcpzW",
+        "ISOCode": "136",
+        "Text": "Text136",
+        "DecimalPlaces": 108
+    },
+    {
+        "CurrencyCode": "qpOsK",
+        "ISOCode": "137",
+        "Text": "Text137",
+        "DecimalPlaces": 118
+    },
+    {
+        "CurrencyCode": "xDbne",
+        "ISOCode": "138",
+        "Text": "Text138",
+        "DecimalPlaces": 28
+    },
+    {
+        "CurrencyCode": "YCcKc",
+        "ISOCode": "139",
+        "Text": "Text139",
+        "DecimalPlaces": 94
+    },
+    {
+        "CurrencyCode": "iOhyx",
+        "ISOCode": "140",
+        "Text": "Text140",
+        "DecimalPlaces": 77
+    },
+    {
+        "CurrencyCode": "mDNBX",
+        "ISOCode": "141",
+        "Text": "Text141",
+        "DecimalPlaces": 136
+    },
+    {
+        "CurrencyCode": "zrOVc",
+        "ISOCode": "142",
+        "Text": "Text142",
+        "DecimalPlaces": 214
+    },
+    {
+        "CurrencyCode": "rxDwH",
+        "ISOCode": "143",
+        "Text": "Text143",
+        "DecimalPlaces": 79
+    },
+    {
+        "CurrencyCode": "pVPBD",
+        "ISOCode": "144",
+        "Text": "Text144",
+        "DecimalPlaces": 79
+    },
+    {
+        "CurrencyCode": "qYHIG",
+        "ISOCode": "145",
+        "Text": "Text145",
+        "DecimalPlaces": 110
+    },
+    {
+        "CurrencyCode": "gnorK",
+        "ISOCode": "146",
+        "Text": "Text146",
+        "DecimalPlaces": 50
+    },
+    {
+        "CurrencyCode": "KQFLi",
+        "ISOCode": "147",
+        "Text": "Text147",
+        "DecimalPlaces": 40
+    },
+    {
+        "CurrencyCode": "huCDS",
+        "ISOCode": "148",
+        "Text": "Text148",
+        "DecimalPlaces": 136
+    },
+    {
+        "CurrencyCode": "qZNeX",
+        "ISOCode": "149",
+        "Text": "Text149",
+        "DecimalPlaces": 170
+    },
+    {
+        "CurrencyCode": "vhKtg",
+        "ISOCode": "150",
+        "Text": "Text150",
+        "DecimalPlaces": 179
+    },
+    {
+        "CurrencyCode": "dtiRj",
+        "ISOCode": "151",
+        "Text": "Text151",
+        "DecimalPlaces": 198
+    },
+    {
+        "CurrencyCode": "YTUtM",
+        "ISOCode": "152",
+        "Text": "Text152",
+        "DecimalPlaces": 223
+    },
+    {
+        "CurrencyCode": "QGolf",
+        "ISOCode": "153",
+        "Text": "Text153",
+        "DecimalPlaces": 44
+    },
+    {
+        "CurrencyCode": "Mygnx",
+        "ISOCode": "154",
+        "Text": "Text154",
+        "DecimalPlaces": 232
+    },
+    {
+        "CurrencyCode": "hrTTe",
+        "ISOCode": "155",
+        "Text": "Text155",
+        "DecimalPlaces": 104
+    },
+    {
+        "CurrencyCode": "UjbKz",
+        "ISOCode": "156",
+        "Text": "Text156",
+        "DecimalPlaces": 69
+    },
+    {
+        "CurrencyCode": "ePbaQ",
+        "ISOCode": "157",
+        "Text": "Text157",
+        "DecimalPlaces": 161
+    },
+    {
+        "CurrencyCode": "oMGGE",
+        "ISOCode": "158",
+        "Text": "Text158",
+        "DecimalPlaces": 5
+    },
+    {
+        "CurrencyCode": "KUYEh",
+        "ISOCode": "159",
+        "Text": "Text159",
+        "DecimalPlaces": 93
+    },
+    {
+        "CurrencyCode": "jWNKP",
+        "ISOCode": "160",
+        "Text": "Text160",
+        "DecimalPlaces": 8
+    },
+    {
+        "CurrencyCode": "zAApU",
+        "ISOCode": "161",
+        "Text": "Text161",
+        "DecimalPlaces": 237
+    },
+    {
+        "CurrencyCode": "zqypW",
+        "ISOCode": "162",
+        "Text": "Text162",
+        "DecimalPlaces": 43
+    },
+    {
+        "CurrencyCode": "yWYkU",
+        "ISOCode": "163",
+        "Text": "Text163",
+        "DecimalPlaces": 234
+    },
+    {
+        "CurrencyCode": "xvVof",
+        "ISOCode": "164",
+        "Text": "Text164",
+        "DecimalPlaces": 102
+    },
+    {
+        "CurrencyCode": "DkpCp",
+        "ISOCode": "165",
+        "Text": "Text165",
+        "DecimalPlaces": 148
+    },
+    {
+        "CurrencyCode": "ijXae",
+        "ISOCode": "166",
+        "Text": "Text166",
+        "DecimalPlaces": 34
+    },
+    {
+        "CurrencyCode": "RRReL",
+        "ISOCode": "167",
+        "Text": "Text167",
+        "DecimalPlaces": 202
+    },
+    {
+        "CurrencyCode": "VwwuH",
+        "ISOCode": "168",
+        "Text": "Text168",
+        "DecimalPlaces": 110
+    },
+    {
+        "CurrencyCode": "avFVA",
+        "ISOCode": "169",
+        "Text": "Text169",
+        "DecimalPlaces": 39
+    },
+    {
+        "CurrencyCode": "KBAgN",
+        "ISOCode": "170",
+        "Text": "Text170",
+        "DecimalPlaces": 8
+    },
+    {
+        "CurrencyCode": "XYUJI",
+        "ISOCode": "171",
+        "Text": "Text171",
+        "DecimalPlaces": 91
+    },
+    {
+        "CurrencyCode": "tFnHO",
+        "ISOCode": "172",
+        "Text": "Text172",
+        "DecimalPlaces": 117
+    },
+    {
+        "CurrencyCode": "JVNZY",
+        "ISOCode": "173",
+        "Text": "Text173",
+        "DecimalPlaces": 195
+    },
+    {
+        "CurrencyCode": "ORdvt",
+        "ISOCode": "174",
+        "Text": "Text174",
+        "DecimalPlaces": 153
+    },
+    {
+        "CurrencyCode": "kCVUY",
+        "ISOCode": "175",
+        "Text": "Text175",
+        "DecimalPlaces": 206
+    },
+    {
+        "CurrencyCode": "NSgsV",
+        "ISOCode": "176",
+        "Text": "Text176",
+        "DecimalPlaces": 135
+    },
+    {
+        "CurrencyCode": "VPRhe",
+        "ISOCode": "177",
+        "Text": "Text177",
+        "DecimalPlaces": 192
+    },
+    {
+        "CurrencyCode": "aLxXR",
+        "ISOCode": "178",
+        "Text": "Text178",
+        "DecimalPlaces": 45
+    },
+    {
+        "CurrencyCode": "WZEnm",
+        "ISOCode": "179",
+        "Text": "Text179",
+        "DecimalPlaces": 83
+    },
+    {
+        "CurrencyCode": "XUoqv",
+        "ISOCode": "180",
+        "Text": "Text180",
+        "DecimalPlaces": 56
+    },
+    {
+        "CurrencyCode": "wuELj",
+        "ISOCode": "181",
+        "Text": "Text181",
+        "DecimalPlaces": 124
+    },
+    {
+        "CurrencyCode": "NJgAf",
+        "ISOCode": "182",
+        "Text": "Text182",
+        "DecimalPlaces": 142
+    },
+    {
+        "CurrencyCode": "LPjek",
+        "ISOCode": "183",
+        "Text": "Text183",
+        "DecimalPlaces": 139
+    },
+    {
+        "CurrencyCode": "jvjRH",
+        "ISOCode": "184",
+        "Text": "Text184",
+        "DecimalPlaces": 207
+    },
+    {
+        "CurrencyCode": "mtTSF",
+        "ISOCode": "185",
+        "Text": "Text185",
+        "DecimalPlaces": 233
+    },
+    {
+        "CurrencyCode": "UziXB",
+        "ISOCode": "186",
+        "Text": "Text186",
+        "DecimalPlaces": 239
+    },
+    {
+        "CurrencyCode": "yHkzD",
+        "ISOCode": "187",
+        "Text": "Text187",
+        "DecimalPlaces": 195
+    },
+    {
+        "CurrencyCode": "fIoAR",
+        "ISOCode": "188",
+        "Text": "Text188",
+        "DecimalPlaces": 51
+    },
+    {
+        "CurrencyCode": "YMtSq",
+        "ISOCode": "189",
+        "Text": "Text189",
+        "DecimalPlaces": 6
+    },
+    {
+        "CurrencyCode": "bBXTd",
+        "ISOCode": "190",
+        "Text": "Text190",
+        "DecimalPlaces": 6
+    },
+    {
+        "CurrencyCode": "vmjhO",
+        "ISOCode": "191",
+        "Text": "Text191",
+        "DecimalPlaces": 157
+    },
+    {
+        "CurrencyCode": "KNnsz",
+        "ISOCode": "192",
+        "Text": "Text192",
+        "DecimalPlaces": 112
+    },
+    {
+        "CurrencyCode": "FWyIZ",
+        "ISOCode": "193",
+        "Text": "Text193",
+        "DecimalPlaces": 164
+    },
+    {
+        "CurrencyCode": "Lnqby",
+        "ISOCode": "194",
+        "Text": "Text194",
+        "DecimalPlaces": 226
+    },
+    {
+        "CurrencyCode": "dtdZf",
+        "ISOCode": "195",
+        "Text": "Text195",
+        "DecimalPlaces": 134
+    },
+    {
+        "CurrencyCode": "bGawK",
+        "ISOCode": "196",
+        "Text": "Text196",
+        "DecimalPlaces": 104
+    },
+    {
+        "CurrencyCode": "VASVG",
+        "ISOCode": "197",
+        "Text": "Text197",
+        "DecimalPlaces": 252
+    },
+    {
+        "CurrencyCode": "LpWzm",
+        "ISOCode": "198",
+        "Text": "Text198",
+        "DecimalPlaces": 146
+    },
+    {
+        "CurrencyCode": "eqVzj",
+        "ISOCode": "199",
+        "Text": "Text199",
+        "DecimalPlaces": 45
+    },
+    {
+        "CurrencyCode": "waXyl",
+        "ISOCode": "200",
+        "Text": "Text200",
+        "DecimalPlaces": 7
     }
 ]

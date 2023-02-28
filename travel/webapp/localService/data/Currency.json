@@ -478,5 +478,1125 @@
         "CurrencyISOCode": "C60",
         "AlternativeCurrencyKey": "A60",
         "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "BLOhR",
+        "Currency_Text": "Currency_Text61",
+        "Decimals": 71,
+        "CurrencyISOCode": "C61",
+        "AlternativeCurrencyKey": "A61",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "wqrSX",
+        "Currency_Text": "Currency_Text62",
+        "Decimals": 88,
+        "CurrencyISOCode": "C62",
+        "AlternativeCurrencyKey": "A62",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "EvCYM",
+        "Currency_Text": "Currency_Text63",
+        "Decimals": 190,
+        "CurrencyISOCode": "C63",
+        "AlternativeCurrencyKey": "A63",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "reIqU",
+        "Currency_Text": "Currency_Text64",
+        "Decimals": 97,
+        "CurrencyISOCode": "C64",
+        "AlternativeCurrencyKey": "A64",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "hMKzH",
+        "Currency_Text": "Currency_Text65",
+        "Decimals": 190,
+        "CurrencyISOCode": "C65",
+        "AlternativeCurrencyKey": "A65",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "ANAsO",
+        "Currency_Text": "Currency_Text66",
+        "Decimals": 67,
+        "CurrencyISOCode": "C66",
+        "AlternativeCurrencyKey": "A66",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "cpCCO",
+        "Currency_Text": "Currency_Text67",
+        "Decimals": 70,
+        "CurrencyISOCode": "C67",
+        "AlternativeCurrencyKey": "A67",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "HzhvQ",
+        "Currency_Text": "Currency_Text68",
+        "Decimals": 240,
+        "CurrencyISOCode": "C68",
+        "AlternativeCurrencyKey": "A68",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "STFPE",
+        "Currency_Text": "Currency_Text69",
+        "Decimals": 139,
+        "CurrencyISOCode": "C69",
+        "AlternativeCurrencyKey": "A69",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "OakGo",
+        "Currency_Text": "Currency_Text70",
+        "Decimals": 205,
+        "CurrencyISOCode": "C70",
+        "AlternativeCurrencyKey": "A70",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "KxzuO",
+        "Currency_Text": "Currency_Text71",
+        "Decimals": 34,
+        "CurrencyISOCode": "C71",
+        "AlternativeCurrencyKey": "A71",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "xccHK",
+        "Currency_Text": "Currency_Text72",
+        "Decimals": 11,
+        "CurrencyISOCode": "C72",
+        "AlternativeCurrencyKey": "A72",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "ZtaXD",
+        "Currency_Text": "Currency_Text73",
+        "Decimals": 51,
+        "CurrencyISOCode": "C73",
+        "AlternativeCurrencyKey": "A73",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "NhzxD",
+        "Currency_Text": "Currency_Text74",
+        "Decimals": 173,
+        "CurrencyISOCode": "C74",
+        "AlternativeCurrencyKey": "A74",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "alGsY",
+        "Currency_Text": "Currency_Text75",
+        "Decimals": 186,
+        "CurrencyISOCode": "C75",
+        "AlternativeCurrencyKey": "A75",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "FYrsh",
+        "Currency_Text": "Currency_Text76",
+        "Decimals": 104,
+        "CurrencyISOCode": "C76",
+        "AlternativeCurrencyKey": "A76",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "TYMaP",
+        "Currency_Text": "Currency_Text77",
+        "Decimals": 75,
+        "CurrencyISOCode": "C77",
+        "AlternativeCurrencyKey": "A77",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "hXwBR",
+        "Currency_Text": "Currency_Text78",
+        "Decimals": 58,
+        "CurrencyISOCode": "C78",
+        "AlternativeCurrencyKey": "A78",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "gZFfO",
+        "Currency_Text": "Currency_Text79",
+        "Decimals": 58,
+        "CurrencyISOCode": "C79",
+        "AlternativeCurrencyKey": "A79",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "plqFl",
+        "Currency_Text": "Currency_Text80",
+        "Decimals": 246,
+        "CurrencyISOCode": "C80",
+        "AlternativeCurrencyKey": "A80",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "DGivM",
+        "Currency_Text": "Currency_Text81",
+        "Decimals": 116,
+        "CurrencyISOCode": "C81",
+        "AlternativeCurrencyKey": "A81",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "AZdCf",
+        "Currency_Text": "Currency_Text82",
+        "Decimals": 150,
+        "CurrencyISOCode": "C82",
+        "AlternativeCurrencyKey": "A82",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "kxWiL",
+        "Currency_Text": "Currency_Text83",
+        "Decimals": 72,
+        "CurrencyISOCode": "C83",
+        "AlternativeCurrencyKey": "A83",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "ySuuZ",
+        "Currency_Text": "Currency_Text84",
+        "Decimals": 245,
+        "CurrencyISOCode": "C84",
+        "AlternativeCurrencyKey": "A84",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "Ytjxf",
+        "Currency_Text": "Currency_Text85",
+        "Decimals": 38,
+        "CurrencyISOCode": "C85",
+        "AlternativeCurrencyKey": "A85",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "NuJsy",
+        "Currency_Text": "Currency_Text86",
+        "Decimals": 62,
+        "CurrencyISOCode": "C86",
+        "AlternativeCurrencyKey": "A86",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "RSvhm",
+        "Currency_Text": "Currency_Text87",
+        "Decimals": 56,
+        "CurrencyISOCode": "C87",
+        "AlternativeCurrencyKey": "A87",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "JuYmH",
+        "Currency_Text": "Currency_Text88",
+        "Decimals": 76,
+        "CurrencyISOCode": "C88",
+        "AlternativeCurrencyKey": "A88",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "vHThY",
+        "Currency_Text": "Currency_Text89",
+        "Decimals": 189,
+        "CurrencyISOCode": "C89",
+        "AlternativeCurrencyKey": "A89",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "yieZW",
+        "Currency_Text": "Currency_Text90",
+        "Decimals": 8,
+        "CurrencyISOCode": "C90",
+        "AlternativeCurrencyKey": "A90",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "VrOcg",
+        "Currency_Text": "Currency_Text91",
+        "Decimals": 97,
+        "CurrencyISOCode": "C91",
+        "AlternativeCurrencyKey": "A91",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "LLQmZ",
+        "Currency_Text": "Currency_Text92",
+        "Decimals": 234,
+        "CurrencyISOCode": "C92",
+        "AlternativeCurrencyKey": "A92",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "OWxem",
+        "Currency_Text": "Currency_Text93",
+        "Decimals": 79,
+        "CurrencyISOCode": "C93",
+        "AlternativeCurrencyKey": "A93",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "YcJOZ",
+        "Currency_Text": "Currency_Text94",
+        "Decimals": 53,
+        "CurrencyISOCode": "C94",
+        "AlternativeCurrencyKey": "A94",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "rMKUV",
+        "Currency_Text": "Currency_Text95",
+        "Decimals": 138,
+        "CurrencyISOCode": "C95",
+        "AlternativeCurrencyKey": "A95",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "IHEQP",
+        "Currency_Text": "Currency_Text96",
+        "Decimals": 237,
+        "CurrencyISOCode": "C96",
+        "AlternativeCurrencyKey": "A96",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "xbsnn",
+        "Currency_Text": "Currency_Text97",
+        "Decimals": 241,
+        "CurrencyISOCode": "C97",
+        "AlternativeCurrencyKey": "A97",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "vdZSJ",
+        "Currency_Text": "Currency_Text98",
+        "Decimals": 81,
+        "CurrencyISOCode": "C98",
+        "AlternativeCurrencyKey": "A98",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "TosEI",
+        "Currency_Text": "Currency_Text99",
+        "Decimals": 30,
+        "CurrencyISOCode": "C99",
+        "AlternativeCurrencyKey": "A99",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "qAFWK",
+        "Currency_Text": "Currency_Text100",
+        "Decimals": 139,
+        "CurrencyISOCode": "100",
+        "AlternativeCurrencyKey": "100",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "jtvCf",
+        "Currency_Text": "Currency_Text101",
+        "Decimals": 209,
+        "CurrencyISOCode": "101",
+        "AlternativeCurrencyKey": "101",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "zKVtp",
+        "Currency_Text": "Currency_Text102",
+        "Decimals": 81,
+        "CurrencyISOCode": "102",
+        "AlternativeCurrencyKey": "102",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "ljgNE",
+        "Currency_Text": "Currency_Text103",
+        "Decimals": 237,
+        "CurrencyISOCode": "103",
+        "AlternativeCurrencyKey": "103",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "AutQB",
+        "Currency_Text": "Currency_Text104",
+        "Decimals": 236,
+        "CurrencyISOCode": "104",
+        "AlternativeCurrencyKey": "104",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "RJnEG",
+        "Currency_Text": "Currency_Text105",
+        "Decimals": 50,
+        "CurrencyISOCode": "105",
+        "AlternativeCurrencyKey": "105",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "ODUDl",
+        "Currency_Text": "Currency_Text106",
+        "Decimals": 208,
+        "CurrencyISOCode": "106",
+        "AlternativeCurrencyKey": "106",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "OUTue",
+        "Currency_Text": "Currency_Text107",
+        "Decimals": 34,
+        "CurrencyISOCode": "107",
+        "AlternativeCurrencyKey": "107",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "fJdqb",
+        "Currency_Text": "Currency_Text108",
+        "Decimals": 67,
+        "CurrencyISOCode": "108",
+        "AlternativeCurrencyKey": "108",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "oRrkZ",
+        "Currency_Text": "Currency_Text109",
+        "Decimals": 30,
+        "CurrencyISOCode": "109",
+        "AlternativeCurrencyKey": "109",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "roJee",
+        "Currency_Text": "Currency_Text110",
+        "Decimals": 127,
+        "CurrencyISOCode": "110",
+        "AlternativeCurrencyKey": "110",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "hTHfY",
+        "Currency_Text": "Currency_Text111",
+        "Decimals": 130,
+        "CurrencyISOCode": "111",
+        "AlternativeCurrencyKey": "111",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "cajgx",
+        "Currency_Text": "Currency_Text112",
+        "Decimals": 224,
+        "CurrencyISOCode": "112",
+        "AlternativeCurrencyKey": "112",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "YAkpA",
+        "Currency_Text": "Currency_Text113",
+        "Decimals": 162,
+        "CurrencyISOCode": "113",
+        "AlternativeCurrencyKey": "113",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "ULbZf",
+        "Currency_Text": "Currency_Text114",
+        "Decimals": 190,
+        "CurrencyISOCode": "114",
+        "AlternativeCurrencyKey": "114",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "RNrhP",
+        "Currency_Text": "Currency_Text115",
+        "Decimals": 41,
+        "CurrencyISOCode": "115",
+        "AlternativeCurrencyKey": "115",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "Maocn",
+        "Currency_Text": "Currency_Text116",
+        "Decimals": 104,
+        "CurrencyISOCode": "116",
+        "AlternativeCurrencyKey": "116",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "PnXZX",
+        "Currency_Text": "Currency_Text117",
+        "Decimals": 158,
+        "CurrencyISOCode": "117",
+        "AlternativeCurrencyKey": "117",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "elwnh",
+        "Currency_Text": "Currency_Text118",
+        "Decimals": 177,
+        "CurrencyISOCode": "118",
+        "AlternativeCurrencyKey": "118",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "xIZnS",
+        "Currency_Text": "Currency_Text119",
+        "Decimals": 12,
+        "CurrencyISOCode": "119",
+        "AlternativeCurrencyKey": "119",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "iVegk",
+        "Currency_Text": "Currency_Text120",
+        "Decimals": 102,
+        "CurrencyISOCode": "120",
+        "AlternativeCurrencyKey": "120",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "cHphE",
+        "Currency_Text": "Currency_Text121",
+        "Decimals": 180,
+        "CurrencyISOCode": "121",
+        "AlternativeCurrencyKey": "121",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "WVuCv",
+        "Currency_Text": "Currency_Text122",
+        "Decimals": 155,
+        "CurrencyISOCode": "122",
+        "AlternativeCurrencyKey": "122",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "jQxpw",
+        "Currency_Text": "Currency_Text123",
+        "Decimals": 79,
+        "CurrencyISOCode": "123",
+        "AlternativeCurrencyKey": "123",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "eDkXy",
+        "Currency_Text": "Currency_Text124",
+        "Decimals": 55,
+        "CurrencyISOCode": "124",
+        "AlternativeCurrencyKey": "124",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "wuTZF",
+        "Currency_Text": "Currency_Text125",
+        "Decimals": 11,
+        "CurrencyISOCode": "125",
+        "AlternativeCurrencyKey": "125",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "haBWD",
+        "Currency_Text": "Currency_Text126",
+        "Decimals": 77,
+        "CurrencyISOCode": "126",
+        "AlternativeCurrencyKey": "126",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "gIhZd",
+        "Currency_Text": "Currency_Text127",
+        "Decimals": 230,
+        "CurrencyISOCode": "127",
+        "AlternativeCurrencyKey": "127",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "ZwKoS",
+        "Currency_Text": "Currency_Text128",
+        "Decimals": 24,
+        "CurrencyISOCode": "128",
+        "AlternativeCurrencyKey": "128",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "piWzE",
+        "Currency_Text": "Currency_Text129",
+        "Decimals": 42,
+        "CurrencyISOCode": "129",
+        "AlternativeCurrencyKey": "129",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "bcPtk",
+        "Currency_Text": "Currency_Text130",
+        "Decimals": 58,
+        "CurrencyISOCode": "130",
+        "AlternativeCurrencyKey": "130",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "juvFx",
+        "Currency_Text": "Currency_Text131",
+        "Decimals": 52,
+        "CurrencyISOCode": "131",
+        "AlternativeCurrencyKey": "131",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "KyvfL",
+        "Currency_Text": "Currency_Text132",
+        "Decimals": 179,
+        "CurrencyISOCode": "132",
+        "AlternativeCurrencyKey": "132",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "uDQHW",
+        "Currency_Text": "Currency_Text133",
+        "Decimals": 174,
+        "CurrencyISOCode": "133",
+        "AlternativeCurrencyKey": "133",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "IoXhJ",
+        "Currency_Text": "Currency_Text134",
+        "Decimals": 84,
+        "CurrencyISOCode": "134",
+        "AlternativeCurrencyKey": "134",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "fGZqP",
+        "Currency_Text": "Currency_Text135",
+        "Decimals": 204,
+        "CurrencyISOCode": "135",
+        "AlternativeCurrencyKey": "135",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "ngpNl",
+        "Currency_Text": "Currency_Text136",
+        "Decimals": 167,
+        "CurrencyISOCode": "136",
+        "AlternativeCurrencyKey": "136",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "DVNel",
+        "Currency_Text": "Currency_Text137",
+        "Decimals": 139,
+        "CurrencyISOCode": "137",
+        "AlternativeCurrencyKey": "137",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "cfwgB",
+        "Currency_Text": "Currency_Text138",
+        "Decimals": 102,
+        "CurrencyISOCode": "138",
+        "AlternativeCurrencyKey": "138",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "TSbJQ",
+        "Currency_Text": "Currency_Text139",
+        "Decimals": 129,
+        "CurrencyISOCode": "139",
+        "AlternativeCurrencyKey": "139",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "YzYun",
+        "Currency_Text": "Currency_Text140",
+        "Decimals": 180,
+        "CurrencyISOCode": "140",
+        "AlternativeCurrencyKey": "140",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "CycuA",
+        "Currency_Text": "Currency_Text141",
+        "Decimals": 157,
+        "CurrencyISOCode": "141",
+        "AlternativeCurrencyKey": "141",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "QPLpy",
+        "Currency_Text": "Currency_Text142",
+        "Decimals": 126,
+        "CurrencyISOCode": "142",
+        "AlternativeCurrencyKey": "142",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "PjYTe",
+        "Currency_Text": "Currency_Text143",
+        "Decimals": 62,
+        "CurrencyISOCode": "143",
+        "AlternativeCurrencyKey": "143",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "rIzyM",
+        "Currency_Text": "Currency_Text144",
+        "Decimals": 141,
+        "CurrencyISOCode": "144",
+        "AlternativeCurrencyKey": "144",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "kFgoq",
+        "Currency_Text": "Currency_Text145",
+        "Decimals": 81,
+        "CurrencyISOCode": "145",
+        "AlternativeCurrencyKey": "145",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "KuAwJ",
+        "Currency_Text": "Currency_Text146",
+        "Decimals": 175,
+        "CurrencyISOCode": "146",
+        "AlternativeCurrencyKey": "146",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "gBitg",
+        "Currency_Text": "Currency_Text147",
+        "Decimals": 62,
+        "CurrencyISOCode": "147",
+        "AlternativeCurrencyKey": "147",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "imSCt",
+        "Currency_Text": "Currency_Text148",
+        "Decimals": 131,
+        "CurrencyISOCode": "148",
+        "AlternativeCurrencyKey": "148",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "PbQyv",
+        "Currency_Text": "Currency_Text149",
+        "Decimals": 176,
+        "CurrencyISOCode": "149",
+        "AlternativeCurrencyKey": "149",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "cLWET",
+        "Currency_Text": "Currency_Text150",
+        "Decimals": 116,
+        "CurrencyISOCode": "150",
+        "AlternativeCurrencyKey": "150",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "sVUad",
+        "Currency_Text": "Currency_Text151",
+        "Decimals": 213,
+        "CurrencyISOCode": "151",
+        "AlternativeCurrencyKey": "151",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "vJnwb",
+        "Currency_Text": "Currency_Text152",
+        "Decimals": 107,
+        "CurrencyISOCode": "152",
+        "AlternativeCurrencyKey": "152",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "Ldbop",
+        "Currency_Text": "Currency_Text153",
+        "Decimals": 210,
+        "CurrencyISOCode": "153",
+        "AlternativeCurrencyKey": "153",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "QMwnh",
+        "Currency_Text": "Currency_Text154",
+        "Decimals": 21,
+        "CurrencyISOCode": "154",
+        "AlternativeCurrencyKey": "154",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "AelkV",
+        "Currency_Text": "Currency_Text155",
+        "Decimals": 152,
+        "CurrencyISOCode": "155",
+        "AlternativeCurrencyKey": "155",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "zNrIe",
+        "Currency_Text": "Currency_Text156",
+        "Decimals": 137,
+        "CurrencyISOCode": "156",
+        "AlternativeCurrencyKey": "156",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "PhLsq",
+        "Currency_Text": "Currency_Text157",
+        "Decimals": 18,
+        "CurrencyISOCode": "157",
+        "AlternativeCurrencyKey": "157",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "rqCHL",
+        "Currency_Text": "Currency_Text158",
+        "Decimals": 105,
+        "CurrencyISOCode": "158",
+        "AlternativeCurrencyKey": "158",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "QLaqU",
+        "Currency_Text": "Currency_Text159",
+        "Decimals": 150,
+        "CurrencyISOCode": "159",
+        "AlternativeCurrencyKey": "159",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "xOnzA",
+        "Currency_Text": "Currency_Text160",
+        "Decimals": 221,
+        "CurrencyISOCode": "160",
+        "AlternativeCurrencyKey": "160",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "dvBhE",
+        "Currency_Text": "Currency_Text161",
+        "Decimals": 91,
+        "CurrencyISOCode": "161",
+        "AlternativeCurrencyKey": "161",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "OoswV",
+        "Currency_Text": "Currency_Text162",
+        "Decimals": 133,
+        "CurrencyISOCode": "162",
+        "AlternativeCurrencyKey": "162",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "kzWan",
+        "Currency_Text": "Currency_Text163",
+        "Decimals": 59,
+        "CurrencyISOCode": "163",
+        "AlternativeCurrencyKey": "163",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "rtmZj",
+        "Currency_Text": "Currency_Text164",
+        "Decimals": 229,
+        "CurrencyISOCode": "164",
+        "AlternativeCurrencyKey": "164",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "CwhCH",
+        "Currency_Text": "Currency_Text165",
+        "Decimals": 206,
+        "CurrencyISOCode": "165",
+        "AlternativeCurrencyKey": "165",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "IdPAu",
+        "Currency_Text": "Currency_Text166",
+        "Decimals": 157,
+        "CurrencyISOCode": "166",
+        "AlternativeCurrencyKey": "166",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "tqbZS",
+        "Currency_Text": "Currency_Text167",
+        "Decimals": 174,
+        "CurrencyISOCode": "167",
+        "AlternativeCurrencyKey": "167",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "OjrPc",
+        "Currency_Text": "Currency_Text168",
+        "Decimals": 207,
+        "CurrencyISOCode": "168",
+        "AlternativeCurrencyKey": "168",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "gMniM",
+        "Currency_Text": "Currency_Text169",
+        "Decimals": 72,
+        "CurrencyISOCode": "169",
+        "AlternativeCurrencyKey": "169",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "YoOCa",
+        "Currency_Text": "Currency_Text170",
+        "Decimals": 159,
+        "CurrencyISOCode": "170",
+        "AlternativeCurrencyKey": "170",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "GNEcU",
+        "Currency_Text": "Currency_Text171",
+        "Decimals": 202,
+        "CurrencyISOCode": "171",
+        "AlternativeCurrencyKey": "171",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "qCaNk",
+        "Currency_Text": "Currency_Text172",
+        "Decimals": 93,
+        "CurrencyISOCode": "172",
+        "AlternativeCurrencyKey": "172",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "ENyfE",
+        "Currency_Text": "Currency_Text173",
+        "Decimals": 119,
+        "CurrencyISOCode": "173",
+        "AlternativeCurrencyKey": "173",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "OcPGi",
+        "Currency_Text": "Currency_Text174",
+        "Decimals": 49,
+        "CurrencyISOCode": "174",
+        "AlternativeCurrencyKey": "174",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "VgGFm",
+        "Currency_Text": "Currency_Text175",
+        "Decimals": 210,
+        "CurrencyISOCode": "175",
+        "AlternativeCurrencyKey": "175",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "ZTFSh",
+        "Currency_Text": "Currency_Text176",
+        "Decimals": 206,
+        "CurrencyISOCode": "176",
+        "AlternativeCurrencyKey": "176",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "qHgEo",
+        "Currency_Text": "Currency_Text177",
+        "Decimals": 78,
+        "CurrencyISOCode": "177",
+        "AlternativeCurrencyKey": "177",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "fIQlN",
+        "Currency_Text": "Currency_Text178",
+        "Decimals": 134,
+        "CurrencyISOCode": "178",
+        "AlternativeCurrencyKey": "178",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "lDZNq",
+        "Currency_Text": "Currency_Text179",
+        "Decimals": 54,
+        "CurrencyISOCode": "179",
+        "AlternativeCurrencyKey": "179",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "AqhNk",
+        "Currency_Text": "Currency_Text180",
+        "Decimals": 149,
+        "CurrencyISOCode": "180",
+        "AlternativeCurrencyKey": "180",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "PLTwP",
+        "Currency_Text": "Currency_Text181",
+        "Decimals": 34,
+        "CurrencyISOCode": "181",
+        "AlternativeCurrencyKey": "181",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "UyeSt",
+        "Currency_Text": "Currency_Text182",
+        "Decimals": 28,
+        "CurrencyISOCode": "182",
+        "AlternativeCurrencyKey": "182",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "Khsvq",
+        "Currency_Text": "Currency_Text183",
+        "Decimals": 181,
+        "CurrencyISOCode": "183",
+        "AlternativeCurrencyKey": "183",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "vifmI",
+        "Currency_Text": "Currency_Text184",
+        "Decimals": 178,
+        "CurrencyISOCode": "184",
+        "AlternativeCurrencyKey": "184",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "Tskgd",
+        "Currency_Text": "Currency_Text185",
+        "Decimals": 211,
+        "CurrencyISOCode": "185",
+        "AlternativeCurrencyKey": "185",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "LQdfR",
+        "Currency_Text": "Currency_Text186",
+        "Decimals": 202,
+        "CurrencyISOCode": "186",
+        "AlternativeCurrencyKey": "186",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "drmKS",
+        "Currency_Text": "Currency_Text187",
+        "Decimals": 45,
+        "CurrencyISOCode": "187",
+        "AlternativeCurrencyKey": "187",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "dLATt",
+        "Currency_Text": "Currency_Text188",
+        "Decimals": 124,
+        "CurrencyISOCode": "188",
+        "AlternativeCurrencyKey": "188",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "HEUuo",
+        "Currency_Text": "Currency_Text189",
+        "Decimals": 156,
+        "CurrencyISOCode": "189",
+        "AlternativeCurrencyKey": "189",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "RuJiG",
+        "Currency_Text": "Currency_Text190",
+        "Decimals": 184,
+        "CurrencyISOCode": "190",
+        "AlternativeCurrencyKey": "190",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "aELUK",
+        "Currency_Text": "Currency_Text191",
+        "Decimals": 97,
+        "CurrencyISOCode": "191",
+        "AlternativeCurrencyKey": "191",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "vUOHS",
+        "Currency_Text": "Currency_Text192",
+        "Decimals": 31,
+        "CurrencyISOCode": "192",
+        "AlternativeCurrencyKey": "192",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "AclUF",
+        "Currency_Text": "Currency_Text193",
+        "Decimals": 138,
+        "CurrencyISOCode": "193",
+        "AlternativeCurrencyKey": "193",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "CLFhM",
+        "Currency_Text": "Currency_Text194",
+        "Decimals": 105,
+        "CurrencyISOCode": "194",
+        "AlternativeCurrencyKey": "194",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "vPmrk",
+        "Currency_Text": "Currency_Text195",
+        "Decimals": 125,
+        "CurrencyISOCode": "195",
+        "AlternativeCurrencyKey": "195",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "qbqac",
+        "Currency_Text": "Currency_Text196",
+        "Decimals": 217,
+        "CurrencyISOCode": "196",
+        "AlternativeCurrencyKey": "196",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "zrunj",
+        "Currency_Text": "Currency_Text197",
+        "Decimals": 131,
+        "CurrencyISOCode": "197",
+        "AlternativeCurrencyKey": "197",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "wQrpS",
+        "Currency_Text": "Currency_Text198",
+        "Decimals": 187,
+        "CurrencyISOCode": "198",
+        "AlternativeCurrencyKey": "198",
+        "IsPrimaryCurrencyForISOCrcy": false
+    },
+    {
+        "Currency": "upfTz",
+        "Currency_Text": "Currency_Text199",
+        "Decimals": 238,
+        "CurrencyISOCode": "199",
+        "AlternativeCurrencyKey": "199",
+        "IsPrimaryCurrencyForISOCrcy": true
+    },
+    {
+        "Currency": "ezKaF",
+        "Currency_Text": "Currency_Text200",
+        "Decimals": 180,
+        "CurrencyISOCode": "200",
+        "AlternativeCurrencyKey": "200",
+        "IsPrimaryCurrencyForISOCrcy": false
     }
 ]
