@@ -124,14 +124,6 @@
             "config": {},
             "routes": [],
             "targets": {}
-        },
-        "extends": {
-            "extensions": {
-                "sap.ui.viewExtensions": {
-                    "sap.suite.ui.generic.template.ObjectPage.view.Details": {},
-                    "sap.suite.ui.generic.template.ListReport.view.ListReport": {}
-                }
-            }
         }
     },
     "sap.ui.generic.app": {
@@ -155,6 +147,11 @@
                         "filterSettings": {
                             "dateSettings": {
                                 "useDateRange": true
+                            }
+                        },
+                        "tableSettings": {
+                            "multiEdit": {
+                                "enabled": true
                             }
                         }
                     }
