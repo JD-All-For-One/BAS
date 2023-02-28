@@ -1398,5 +1398,285 @@
         "ExternalCode": "200",
         "Text": "Text200",
         "DecimalPlaces": 20700
+    },
+    {
+        "UnitCode": "rKP",
+        "ISOCode": "201",
+        "ExternalCode": "201",
+        "Text": "Text201",
+        "DecimalPlaces": 3039
+    },
+    {
+        "UnitCode": "kIm",
+        "ISOCode": "202",
+        "ExternalCode": "202",
+        "Text": "Text202",
+        "DecimalPlaces": 12931
+    },
+    {
+        "UnitCode": "VxV",
+        "ISOCode": "203",
+        "ExternalCode": "203",
+        "Text": "Text203",
+        "DecimalPlaces": 6780
+    },
+    {
+        "UnitCode": "Olw",
+        "ISOCode": "204",
+        "ExternalCode": "204",
+        "Text": "Text204",
+        "DecimalPlaces": 32651
+    },
+    {
+        "UnitCode": "WVp",
+        "ISOCode": "205",
+        "ExternalCode": "205",
+        "Text": "Text205",
+        "DecimalPlaces": 10024
+    },
+    {
+        "UnitCode": "ISk",
+        "ISOCode": "206",
+        "ExternalCode": "206",
+        "Text": "Text206",
+        "DecimalPlaces": 24014
+    },
+    {
+        "UnitCode": "SNk",
+        "ISOCode": "207",
+        "ExternalCode": "207",
+        "Text": "Text207",
+        "DecimalPlaces": 7448
+    },
+    {
+        "UnitCode": "tuK",
+        "ISOCode": "208",
+        "ExternalCode": "208",
+        "Text": "Text208",
+        "DecimalPlaces": 6845
+    },
+    {
+        "UnitCode": "rbO",
+        "ISOCode": "209",
+        "ExternalCode": "209",
+        "Text": "Text209",
+        "DecimalPlaces": 18882
+    },
+    {
+        "UnitCode": "mMU",
+        "ISOCode": "210",
+        "ExternalCode": "210",
+        "Text": "Text210",
+        "DecimalPlaces": 1634
+    },
+    {
+        "UnitCode": "kyp",
+        "ISOCode": "211",
+        "ExternalCode": "211",
+        "Text": "Text211",
+        "DecimalPlaces": 13750
+    },
+    {
+        "UnitCode": "EUf",
+        "ISOCode": "212",
+        "ExternalCode": "212",
+        "Text": "Text212",
+        "DecimalPlaces": 14967
+    },
+    {
+        "UnitCode": "enI",
+        "ISOCode": "213",
+        "ExternalCode": "213",
+        "Text": "Text213",
+        "DecimalPlaces": 13571
+    },
+    {
+        "UnitCode": "EsD",
+        "ISOCode": "214",
+        "ExternalCode": "214",
+        "Text": "Text214",
+        "DecimalPlaces": 30299
+    },
+    {
+        "UnitCode": "azu",
+        "ISOCode": "215",
+        "ExternalCode": "215",
+        "Text": "Text215",
+        "DecimalPlaces": 3828
+    },
+    {
+        "UnitCode": "FQI",
+        "ISOCode": "216",
+        "ExternalCode": "216",
+        "Text": "Text216",
+        "DecimalPlaces": 13608
+    },
+    {
+        "UnitCode": "yQV",
+        "ISOCode": "217",
+        "ExternalCode": "217",
+        "Text": "Text217",
+        "DecimalPlaces": 32114
+    },
+    {
+        "UnitCode": "chR",
+        "ISOCode": "218",
+        "ExternalCode": "218",
+        "Text": "Text218",
+        "DecimalPlaces": 29152
+    },
+    {
+        "UnitCode": "pzW",
+        "ISOCode": "219",
+        "ExternalCode": "219",
+        "Text": "Text219",
+        "DecimalPlaces": 25350
+    },
+    {
+        "UnitCode": "iEz",
+        "ISOCode": "220",
+        "ExternalCode": "220",
+        "Text": "Text220",
+        "DecimalPlaces": 13145
+    },
+    {
+        "UnitCode": "WzP",
+        "ISOCode": "221",
+        "ExternalCode": "221",
+        "Text": "Text221",
+        "DecimalPlaces": 10239
+    },
+    {
+        "UnitCode": "HET",
+        "ISOCode": "222",
+        "ExternalCode": "222",
+        "Text": "Text222",
+        "DecimalPlaces": 17908
+    },
+    {
+        "UnitCode": "eba",
+        "ISOCode": "223",
+        "ExternalCode": "223",
+        "Text": "Text223",
+        "DecimalPlaces": 24718
+    },
+    {
+        "UnitCode": "nOK",
+        "ISOCode": "224",
+        "ExternalCode": "224",
+        "Text": "Text224",
+        "DecimalPlaces": 9483
+    },
+    {
+        "UnitCode": "SBA",
+        "ISOCode": "225",
+        "ExternalCode": "225",
+        "Text": "Text225",
+        "DecimalPlaces": 32413
+    },
+    {
+        "UnitCode": "BCF",
+        "ISOCode": "226",
+        "ExternalCode": "226",
+        "Text": "Text226",
+        "DecimalPlaces": 16140
+    },
+    {
+        "UnitCode": "fSv",
+        "ISOCode": "227",
+        "ExternalCode": "227",
+        "Text": "Text227",
+        "DecimalPlaces": 3968
+    },
+    {
+        "UnitCode": "mrN",
+        "ISOCode": "228",
+        "ExternalCode": "228",
+        "Text": "Text228",
+        "DecimalPlaces": 25062
+    },
+    {
+        "UnitCode": "Kql",
+        "ISOCode": "229",
+        "ExternalCode": "229",
+        "Text": "Text229",
+        "DecimalPlaces": 6143
+    },
+    {
+        "UnitCode": "bzm",
+        "ISOCode": "230",
+        "ExternalCode": "230",
+        "Text": "Text230",
+        "DecimalPlaces": 31956
+    },
+    {
+        "UnitCode": "Lti",
+        "ISOCode": "231",
+        "ExternalCode": "231",
+        "Text": "Text231",
+        "DecimalPlaces": 17325
+    },
+    {
+        "UnitCode": "WAa",
+        "ISOCode": "232",
+        "ExternalCode": "232",
+        "Text": "Text232",
+        "DecimalPlaces": 59
+    },
+    {
+        "UnitCode": "axM",
+        "ISOCode": "233",
+        "ExternalCode": "233",
+        "Text": "Text233",
+        "DecimalPlaces": 29113
+    },
+    {
+        "UnitCode": "Jtw",
+        "ISOCode": "234",
+        "ExternalCode": "234",
+        "Text": "Text234",
+        "DecimalPlaces": 24781
+    },
+    {
+        "UnitCode": "WAy",
+        "ISOCode": "235",
+        "ExternalCode": "235",
+        "Text": "Text235",
+        "DecimalPlaces": 26154
+    },
+    {
+        "UnitCode": "wMD",
+        "ISOCode": "236",
+        "ExternalCode": "236",
+        "Text": "Text236",
+        "DecimalPlaces": 3132
+    },
+    {
+        "UnitCode": "CGU",
+        "ISOCode": "237",
+        "ExternalCode": "237",
+        "Text": "Text237",
+        "DecimalPlaces": 9328
+    },
+    {
+        "UnitCode": "QPo",
+        "ISOCode": "238",
+        "ExternalCode": "238",
+        "Text": "Text238",
+        "DecimalPlaces": 27940
+    },
+    {
+        "UnitCode": "BJT",
+        "ISOCode": "239",
+        "ExternalCode": "239",
+        "Text": "Text239",
+        "DecimalPlaces": 9390
+    },
+    {
+        "UnitCode": "PWp",
+        "ISOCode": "240",
+        "ExternalCode": "240",
+        "Text": "Text240",
+        "DecimalPlaces": 6126
     }
 ]
