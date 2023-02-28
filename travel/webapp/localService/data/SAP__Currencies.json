@@ -1438,5 +1438,125 @@
         "ISOCode": "240",
         "Text": "Text240",
         "DecimalPlaces": 248
+    },
+    {
+        "CurrencyCode": "FwRpm",
+        "ISOCode": "241",
+        "Text": "Text241",
+        "DecimalPlaces": 90
+    },
+    {
+        "CurrencyCode": "NBXEU",
+        "ISOCode": "242",
+        "Text": "Text242",
+        "DecimalPlaces": 160
+    },
+    {
+        "CurrencyCode": "LvMjB",
+        "ISOCode": "243",
+        "Text": "Text243",
+        "DecimalPlaces": 240
+    },
+    {
+        "CurrencyCode": "IKLVG",
+        "ISOCode": "244",
+        "Text": "Text244",
+        "DecimalPlaces": 8
+    },
+    {
+        "CurrencyCode": "CTDYC",
+        "ISOCode": "245",
+        "Text": "Text245",
+        "DecimalPlaces": 156
+    },
+    {
+        "CurrencyCode": "JDkUz",
+        "ISOCode": "246",
+        "Text": "Text246",
+        "DecimalPlaces": 215
+    },
+    {
+        "CurrencyCode": "UMidP",
+        "ISOCode": "247",
+        "Text": "Text247",
+        "DecimalPlaces": 90
+    },
+    {
+        "CurrencyCode": "PeRnr",
+        "ISOCode": "248",
+        "Text": "Text248",
+        "DecimalPlaces": 77
+    },
+    {
+        "CurrencyCode": "ofuLa",
+        "ISOCode": "249",
+        "Text": "Text249",
+        "DecimalPlaces": 149
+    },
+    {
+        "CurrencyCode": "ggMbQ",
+        "ISOCode": "250",
+        "Text": "Text250",
+        "DecimalPlaces": 201
+    },
+    {
+        "CurrencyCode": "qvgTl",
+        "ISOCode": "251",
+        "Text": "Text251",
+        "DecimalPlaces": 205
+    },
+    {
+        "CurrencyCode": "zNDXP",
+        "ISOCode": "252",
+        "Text": "Text252",
+        "DecimalPlaces": 190
+    },
+    {
+        "CurrencyCode": "rSDWP",
+        "ISOCode": "253",
+        "Text": "Text253",
+        "DecimalPlaces": 138
+    },
+    {
+        "CurrencyCode": "LvZvc",
+        "ISOCode": "254",
+        "Text": "Text254",
+        "DecimalPlaces": 204
+    },
+    {
+        "CurrencyCode": "MaQup",
+        "ISOCode": "255",
+        "Text": "Text255",
+        "DecimalPlaces": 89
+    },
+    {
+        "CurrencyCode": "xScIQ",
+        "ISOCode": "256",
+        "Text": "Text256",
+        "DecimalPlaces": 124
+    },
+    {
+        "CurrencyCode": "nkDZI",
+        "ISOCode": "257",
+        "Text": "Text257",
+        "DecimalPlaces": 57
+    },
+    {
+        "CurrencyCode": "xJzop",
+        "ISOCode": "258",
+        "Text": "Text258",
+        "DecimalPlaces": 102
+    },
+    {
+        "CurrencyCode": "asVgA",
+        "ISOCode": "259",
+        "Text": "Text259",
+        "DecimalPlaces": 48
+    },
+    {
+        "CurrencyCode": "CqMOr",
+        "ISOCode": "260",
+        "Text": "Text260",
+        "DecimalPlaces": 175
     }
 ]
