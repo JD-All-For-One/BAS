@@ -1,0 +1,203 @@
+{
+  "fileName": "manifest",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "appdescr_variant",
+  "reference": "mdm.cmd.product.maintain",
+  "id": "customer.manage.product",
+  "namespace": "apps/mdm.cmd.product.maintain/appVariants/customer.manage.product/",
+  "content": [
+    {
+      "changeType": "appdescr_app_setTitle",
+      "content": {},
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ListReport|C_Product"
+      },
+      "texts": {
+        "i18n": "i18n/ListReport/C_Product/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Product"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Product/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productdistributioncenter"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productdistributioncenter/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productplant"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productplant/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productsalesdelivery"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productsalesdelivery/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productstoragelocation"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productstoragelocation/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productdcstoragelocation"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productdcstoragelocation/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productstorestoragelocation"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productstorestoragelocation/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productstore"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productstore/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productsupplierean"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productsupplierean/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productunitofmeasuretext"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productunitofmeasuretext/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productunitomeasureean"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productunitomeasureean/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productunitsofmeasure"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productunitsofmeasure/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productvaluation"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productvaluation/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_ProductPlantMRP"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_ProductPlantMRP/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_ProductStoreMRP"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_ProductStoreMRP/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_ProductDistrCtrMRP"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_ProductDistrCtrMRP/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_ProdEWMWarehouse"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_ProdEWMWarehouse/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_ProdEWMWrhsStorageType"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_ProdEWMWrhsStorageType/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_Productsalesdeliverypos"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_Productsalesdeliverypos/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_setMinUI5Version",
+      "content": {
+        "minUI5Version": "1.102.8"
+      }
+    }
+  ]
+}
